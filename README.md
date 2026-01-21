@@ -15,6 +15,6 @@
 3. Готово! Додавайте події, очищайте список.
 
 ## Деплой
-Проект задеплойений на Vercel: testove-markiyan-staroselsky-git-main-aurumshariexds-projects.vercel.app
+Проект задеплойений на Vercel: https://testove-markiyan-staroselsky-git-main-aurumshariexds-projects.vercel.app/
 
 Автор: Маркіян Старосельський
