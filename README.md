@@ -15,6 +15,6 @@
 3. Готово! Додавайте події, очищайте список.
 
 ## Деплой
-Проект задеплойений на Vercel: [встав сюди посилання після деплою]
+Проект задеплойений на Vercel: https://testove-markiyan-staroselsky-dbslvax8n-aurumshariexds-projects.vercel.app
 
 Автор: Маркіян Старосельський
