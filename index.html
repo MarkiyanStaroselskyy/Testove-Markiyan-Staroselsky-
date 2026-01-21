@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Testove</title>
+    <link rel="stylesheet" href="/css/style.css">
+
+</head>
+<body>
+
+    <h1>Облік подій</h1>
+
+    <form id="eventForm">
+        <label for="name">Назва події:</label>
+        <input type="text" id="name" required>
+
+        <label for="type">Тип події:</label>
+        <select id="type" required>
+            <option value="click">Click</option>
+            <option value="lead">Lead</option>
+            <option value="sale">Sale</option>
+        </select>
+        <button type="submit">Додати подію</button>
+    </form>
+
+    <h2>Список подій</h2>
+
+    <table id="eventsTable">
+        <thead>
+        <tr>
+            <th>Назва події</th>
+            <th>Тип події</th>
+            <th>Дата і час</th>
+        </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+    <br>
+
+    <h2>Статистика</h2>
+    <div id="stats">
+        Загальна кількість подій: 0<br>
+        Click: 0<br>
+        Lead: 0<br>
+        Sale: 0
+    </div>
+
+    <button id="clearBtn">Очистити всі події</button>
+    <script src="/js/script.js"></script>
+</body>
+</html>
